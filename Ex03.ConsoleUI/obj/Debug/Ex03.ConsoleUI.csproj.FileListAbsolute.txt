@@ -1,0 +1,9 @@
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Liel Bar\source\repos\B23 Ex03 Yarin 207952052 Shay 206869646\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
